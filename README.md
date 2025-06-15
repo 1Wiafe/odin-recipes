@@ -1,1 +1,3 @@
 # odin-recipes
+This is a simple recipe website built with only HTML.
+In this project, I learned about various HTML elements and how they structure content on a web page. I used h1, and h3 elemets create headings on the web pages. I also made use of ordered and unordered list types to add lists to he page, and I also added pictures by using the img element. While most elements have an opening and a closing tag, there are some other elements like the img element that doesn't need a closing tag. This project has helped strengthen my knowledge in the foundations of web development.
